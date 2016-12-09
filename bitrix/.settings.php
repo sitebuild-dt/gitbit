@@ -52,7 +52,7 @@ return array (
       array (
         'className' => '\\Bitrix\\Main\\DB\\MysqlConnection',
         'host' => 'localhost',
-        'database' => 'gitbitmst',
+        'database' => 'sitemanager0',
         'login' => 'root',
         'password' => '',
         'options' => 2,
