@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 { color:#000000; }
 hr, .hr { border-color: #E9E9E9;}
 
 /* Blog */
-h2.blog-post-title a, h2.blog-post-title a:hover, div.blog-list-title a { color: #EF7C36 !important; }
+h2.blog-post-title a, h2.blog-post-title a:hover, div.blog-list-title a { color: red !important; }
 
 div.blog-post, div.blog-comment-cont, div.blog-add-comment-top, div.blog-list-item, div.blog-edit-buttons { border-color: #E9E9E9}
 
